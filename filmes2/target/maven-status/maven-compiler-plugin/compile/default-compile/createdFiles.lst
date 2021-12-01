@@ -1,0 +1,5 @@
+com\zuplae\filmes\FilmesApplication.class
+com\zuplae\filmes\model\Filme.class
+com\zuplae\filmes\repository\FilmeRepository.class
+com\zuplae\filmes\ServletInitializer.class
+com\zuplae\filmes\controller\FilmeController.class
