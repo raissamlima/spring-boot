@@ -17,4 +17,4 @@ Aplicações realizadas na linguagem Java, com o framework spring-boot. (Ativida
 
 **Desenvolvedores/Contribuintes**
 
-- Raissa Martins Lima - Desenvolvedora SIS
+- Raissa Martins Lima - Desenvolvedora Back-end Java.
